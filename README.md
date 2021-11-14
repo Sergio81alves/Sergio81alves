@@ -33,6 +33,7 @@
 ![python](https://img.shields.io/badge/python-7-lightgrey=python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![html](https://img.shields.io/badge/Html%20%26%20-Css-Color=blue)
+![Mysql](https://img.shields.io/badge/MySQL-server-red)
 
 <br/>
 

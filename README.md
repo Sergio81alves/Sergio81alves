@@ -1,7 +1,7 @@
 ### Hi there 👋
-# <img width="150px" src="https://gblobscdn.gitbook.com/assets%2F-LKbpNQDFNJap9OTDSt6%2F-LQREfC7GUqPbGRmeAux%2F-LQRF9dT7G220-aFU38g%2FFor-Loop-(Large-0.8).gif?alt=media&token=6758e361-d14b-49e4-8777-1575315873a1" /> , I'm Sergio Alves
+# <img width="600px" src="https://gblobscdn.gitbook.com/assets%2F-LKbpNQDFNJap9OTDSt6%2F-LQREfC7GUqPbGRmeAux%2F-LQRF9dT7G220-aFU38g%2FFor-Loop-(Large-0.8).gif?alt=media&token=6758e361-d14b-49e4-8777-1575315873a1" /> , I'm Sergio Alves
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="320px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  <br>
 ## I'm a analysis and systems Development student who loves javascript
 

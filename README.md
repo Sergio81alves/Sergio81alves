@@ -3,21 +3,18 @@
 
 <img align="right" alt="GIF" height="320px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  <br>
-## I'm a analysis and systems Development student who loves javascript
+## I'm a React student
 
 - 👨‍💻 I’m Developer!.
 - 🌱 I’m currently student.
-- 💪🏼 Future Goals: Study Framework Django Multithreading, and the some more stuff! <3
-- ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
-- 👯 I’m currently doing a Game Development side project with some friends using python!
 
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sergio81alves&repo=Sergio81alves&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
-[<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="HollowWizard | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png"/>][linkedin]
+[<img align="left" alt="HollowWizard | Instagram" height="30px" src="https://img.freepik.com/free-psd/3d-rounded-square-with-glossy-instagram-logo_125540-1539.jpg?t=st=1657115909~exp=1657116509~hmac=bdfe44dab9f4213090ea2463a58de394cfd866de98179987b1a5347a8b48223b&w=740" />][instagram]
 
 <br>
 <br>

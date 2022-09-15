@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="320px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  <br>
-## I'm a React student
+## I'm a Front-end student
 
 - 👨‍💻 I’m Developer!.
 - 🌱 I’m currently student.
